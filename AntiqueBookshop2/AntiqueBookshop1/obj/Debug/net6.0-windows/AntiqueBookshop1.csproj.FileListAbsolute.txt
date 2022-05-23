@@ -1,0 +1,69 @@
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.exe
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.deps.json
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.pdb
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.g.resources
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\refint\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.pdb
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\ref\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\OrderManagement.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1\AntiqueBookshop1\obj\Debug\net6.0-windows\OrderManagement.baml
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.exe
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.deps.json
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.pdb
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\OrderManagement.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\OrderManagement.baml
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.g.resources
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\refint\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.pdb
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop1 - Copy\AntiqueBookshop1\obj\Debug\net6.0-windows\ref\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.exe
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.deps.json
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\bin\Debug\net6.0-windows\AntiqueBookshop1.pdb
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\OrderManagement.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\OrderManagement.baml
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.g.resources
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\refint\AntiqueBookshop1.dll
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.pdb
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\AntiqueBookshop1.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\ACS\AntiqueBookshop2\AntiqueBookshop1\obj\Debug\net6.0-windows\ref\AntiqueBookshop1.dll
