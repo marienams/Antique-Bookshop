@@ -8,3 +8,10 @@ The user of the application is an antique bookshop owner keeping tracks of all t
 
 # Process
 <li>Application user and description defining</li>
+<li>Application layout, following Gestalt principles</li>
+<li>Book records stored in XAML, serializer for reading and writing</li>
+<li>Book information display and update</li>
+<li>Selecting books for borrowing</li>
+<li>Moving selceted books to order queue</li>
+<li>Storing user information and duration for respective books</li>
+<li>Moving returned books from order queue</li>
