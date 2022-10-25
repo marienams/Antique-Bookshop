@@ -17,4 +17,4 @@ The user of the application is an antique bookshop owner keeping tracks of all t
 <li>Moving returned books from order queue</li>
 
 # Images
-![My Image](images/Screenshot 2022-10-25 at 10.24.35 AM.png)
+![My Image](images/1.png)
